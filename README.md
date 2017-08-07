@@ -1,5 +1,5 @@
 # Pose-Estimation
-Human Pose estimation based on Energy Minimization
+Human Pose estimation based on Energy Minimization. The code is implemented with Matlab.
 
 Firstly we should build a model for human pose, it mainly consists of left arm, right arm, head and torso. There exist joints between different parts of the human pose.
 
